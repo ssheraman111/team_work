@@ -1,0 +1,110 @@
+body {
+  font-family: "Rubik", sans-serif;
+}
+
+.services_2_ss {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-family: "Rubik", sans-serif;
+}
+.services_2_right {
+  font-size: 14px;
+  max-width: 50%;
+  position: absolute;
+  left: 55%;
+  padding: 3% 3%;
+}
+.services_2_right h2 {
+  font-size: 42px;
+  color: #253d32;
+}
+.services_2_right p {
+  color: #78847d;
+  font-size: 22px;
+}
+.services_2_right button {
+  background-color: #92bc37;
+  border-radius: 192px;
+  color: white;
+  border-style: none;
+  padding: 25px;
+  font-size: 20px;
+  width: 52%;
+}
+
+.green {
+  position: absolute;
+  left: auto;
+  left: 119px;
+  top: 78px;
+}
+.background {
+  position: absolute;
+  left: 105px;
+  top: 52px;
+}
+.text {
+  position: absolute;
+  left: 235px;
+  top: 220px;
+}
+.symbol {
+  position: absolute;
+  left: 170px;
+  top: 220px;
+}
+.t {
+  position: absolute;
+  left: 10%;
+  top: 290px;
+}
+.notion {
+  position: absolute;
+  left: 39%;
+  top: 335px;
+}
+.cubes {
+  position: absolute;
+  left: 38%;
+  top: 198px;
+  z-index: -1;
+}
+.vk {
+  position: absolute;
+  left: 33%;
+  top: 282px;
+}
+.blue {
+  position: absolute;
+  left: 22%;
+  top: 382px;
+}
+.fcb {
+  position: absolute;
+  left: 7%;
+  top: 23px;
+}
+.inst {
+  position: absolute;
+  left: 36%;
+  top: -25px;
+}
+.greencube {
+  position: absolute;
+  left: 2%;
+  top: 293px;
+  z-index: -1;
+}
+.stick1 {
+  position: absolute;
+  left: 22%;
+  top: 391px;
+  z-index: -1;
+}
+.stick2 {
+  position: absolute;
+  left: 4%;
+  top: 398px;
+  z-index: -1;
+}
