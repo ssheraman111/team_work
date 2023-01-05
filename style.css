@@ -108,3 +108,142 @@ body {
   top: 398px;
   z-index: -1;
 }
+/* =============================Footertt start====================== */
+* {
+  margin: 0;
+}
+.footertt {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.img__img {
+  z-index: 3;
+  position: relative;
+  left: -108px;
+  top: -11%;
+}
+.img_img {
+  z-index: 3;
+  position: relative;
+  left: 856px;
+  top: -68%;
+}
+.footert {
+  background-image: url("./img/Group_bg_img.svg");
+  width: 80%;
+  height: 523px;
+}
+
+.footert__title {
+  font-size: 32px;
+  font-weight: 600;
+  color: white;
+  width: 47%;
+  position: relative;
+  top: -37%;
+  left: 10%;
+  line-height: 48px;
+}
+.footert__logo {
+  display: flex;
+  align-items: center;
+  margin-top: -11%;
+  margin-left: 10%;
+}
+.logo___ {
+  margin-left: 2%;
+}
+.footert__inp_btn {
+  margin-top: 5%;
+  margin-left: 10%;
+}
+.footert__inp {
+  border: transparent;
+  width: 30%;
+  height: 78px;
+  border-radius: 192px;
+  padding-left: 3%;
+  font-size: 18px;
+  font-weight: 500;
+  color: #14183e;
+}
+.footert__btn {
+  width: 20%;
+  height: 83px;
+  border: transparent;
+  border-radius: 192px;
+  background: linear-gradient(
+    to top,
+    rgba(152, 170, 40, 1),
+    rgba(214, 255, 126, 1)
+  );
+  font-size: 24px;
+  font-weight: 600;
+  color: white;
+  margin-left: 3%;
+}
+/* =============================Footertt end====================== */
+/*********************** footer emir__start **************************/
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10%;
+}
+.footer__header_one > p {
+  width: 354px;
+  height: 102px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  color: #78847d;
+  font-family: "Rubik", sans-serif;
+  margin-bottom: 5%;
+}
+.footer__header_one > img {
+  margin-bottom: 4%;
+}
+.footer__header_buttom > img {
+  margin-left: 8%;
+}
+
+#buttom_facebook {
+  margin-left: 0%;
+}
+.footer__header_list {
+  list-style-type: none;
+  color: #78847d;
+  padding-left: 0;
+  line-height: 30px;
+}
+.footer__header > h3 {
+  color: #253d32;
+  font-weight: 700;
+  font-size: 24px;
+  font-family: "Rubik", sans-serif;
+  margin-bottom: 15%;
+}
+.ahahah {
+  width: 80%;
+  margin-top: 4%;
+  margin-left: 10%;
+}
+.footer__the_end {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3%;
+  color: #78847d;
+  margin-bottom: 5%;
+}
+.footer__the_end > p {
+  width: 290px;
+  font-size: 16px;
+}
+.footer__the_end > p > img {
+  padding-right: 4%;
+  font-family: "Rubik", sans-serif;
+}
+/*********************** footer emir__end **************************/
