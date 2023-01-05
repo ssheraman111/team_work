@@ -1,0 +1,82 @@
+/* Adilkhan Our Process start  */
+
+.container {
+  background-color: #f6fbf9;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+}
+/* !заголовок start */
+.process {
+  color: #253d32;
+  font-size: 42px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.our {
+  color: #78847d;
+  font-size: 22px;
+  text-align: center;
+}
+/* !заголовок end */
+
+/* !центральная start */
+.con {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  color: #253d32;
+}
+.cons {
+  font-size: 20px;
+}
+.cy {
+  width: 40px;
+  height: 40px;
+}
+.pa {
+  font-size: 20px;
+  width: 150px;
+  height: 60px;
+  cursor: pointer;
+}
+.pa:hover {
+  font-weight: bold;
+  font-size: 21px;
+}
+/* !центральная end */
+
+/* !bottom start */
+.bottom {
+  margin-top: 5%;
+  width: 150px;
+  height: 28px;
+  left: 616px;
+  top: 2906px;
+  cursor: pointer;
+}
+a {
+  margin-top: 5%;
+  font-size: 24px;
+  color: #a3b938;
+  display: block;
+  text-align: center;
+  cursor: pointer;
+}
+a:hover {
+  font-weight: bold;
+  font-size: 30px;
+}
+.qw {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  border-radius: 195px;
+  border-color: #a2bdaa;
+  background-color: white;
+}
+
+/* !bottom end */
+/* Adilkhan Our Process end */
