@@ -1,4 +1,90 @@
 
+/* <!-- Bekbolsun Article start --> */
+.block_article {
+  display: flex;
+  justify-content: center;
+}
+.article_left {
+  width: 40%;
+}
+.article_right {
+  margin-top: 3%;
+  width: 40%;
+}
+#writing:hover {
+  border-bottom: solid 3px #e8f1af;
+}
+#marketing:hover {
+  border-bottom: solid 3px #e8f1af;
+}
+.ul_item {
+  font-size: 24px;
+  cursor: pointer;
+  list-style-type: none;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+.article_item_right {
+  display: flex;
+  justify-content: space-between;
+}
+.article_left > p {
+  font-size: 26px;
+}
+.article_left > h2 {
+  font-size: 42px;
+}
+.article_left > img {
+  width: 540px;
+  height: 343px;
+}
+.article_left > button {
+  cursor: pointer;
+  font-size: 20px;
+  width: 206px;
+  height: 68px;
+  border: solid;
+  border-color: #a3b938;
+  color: #98aa28;
+  border-radius: 192px;
+  background-color: #ffffff;
+}
+.article_left > button:hover {
+  background-color: #e8f1af;
+}
+#shadow {
+  font-size: 18px;
+  color: #808371;
+  text-shadow: 2px 2px 2px grey;
+}
+.data {
+  color: #808371;
+  font-size: 14px;
+}
+.aa {
+  font-size: 24px;
+}
+.bb {
+  font-size: 18px;
+  color: #78847d;
+}
+#cc {
+  cursor: pointer;
+  width: 69px;
+  height: 69px;
+  border-color: #a3b938;
+  color: #98aa28;
+  border-radius: 192px;
+  background-color: #ffffff;
+}
+#cc:hover {
+  background-color: #e8f1af;
+}
+/* <!-- Bekbolsun Article end ad --> */
+=======
+
 /* Adilkhan Our Process start  */
 
 .container {
